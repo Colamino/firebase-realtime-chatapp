@@ -22,8 +22,6 @@ function App() {
     return children;
   };
 
-  console.log(process.env.REACT_APP_FIREBASE_KEY);
-
   return (
     <div>
       <Router>
